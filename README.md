@@ -15,8 +15,10 @@ O projeto está sendo desenvolvido na BootCamp da Rocketseat
 
 <p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
-  <img src="https://github.com/Vinidevsantos/desafio-react06-rs/blob/master/src/assets/GoFinancesListagem.jpg?raw=true" alt="GoFinances List" />
-  <img src="https://github.com/Vinidevsantos/desafio-react06-rs/blob/master/src/assets/GoFinancesImport.jpg?raw=true" alt="GoFinances Import" />
+  <a href="https://gofinances.vercel.app/"> 
+    <img src="https://github.com/Vinidevsantos/desafio-react06-rs/blob/master/src/assets/GoFinancesListagem.jpg?raw=true" alt="GoFinances List" />
+    <img src="https://github.com/Vinidevsantos/desafio-react06-rs/blob/master/src/assets/GoFinancesImport.jpg?raw=true" alt="GoFinances Import" />
+  </a>
 </p>
 
 
