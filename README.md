@@ -35,14 +35,14 @@ Para instalar e startar a plataforma Proffy em seu ambiente, siga os passos abai
 
 Clone o repositório:
 ```
-git clone https://github.com/Vinidevsantos/05-github-ui.git 
+git clone https://github.com/Vinidevsantos/GoFinances.git 
 ```
 
 ### Start
 
 Entre no repositório clonado e em seu diretório correspondente ao projeto web (somente interface web no momento):
 ```
-cd ./05-github-ui
+cd ./GoFinances.git
 ```
 
 Instale as dependências e starte 🚀
